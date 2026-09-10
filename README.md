@@ -378,5 +378,5 @@ El objetivo es transformar datos de clientes y campañas en información útil p
 
 Transformo datos operativos y comerciales en decisiones de negocio.
 
-- **GitHub:** DSGProjects
-- **LinkedIn:** David Fernando Solano Garcia
+- **GitHub:** [DSGProjects](https://github.com/DSGProjects)
+- **LinkedIn:** [David Fernando Solano Garcia](https://www.linkedin.com/in/david-fernando-solano-garcia-data)
